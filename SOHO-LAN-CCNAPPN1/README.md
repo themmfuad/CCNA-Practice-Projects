@@ -1,5 +1,6 @@
 # CCNA-Practice-Projects: N1 (CCNAPPN1)
-# SOHO-LAN: Network in Cisco Packet Tracer by @themmfuad
+# SOHO-LAN: Network in Cisco Packet Tracer
+# by @themmfuad
 
 ![network-diagram](SOHO-LAN-by-themmfuad.png "SOHO LAN by @themmfuad")
 
