@@ -2,7 +2,7 @@
 # SOHO-LAN: Network in Cisco Packet Tracer
 # by @themmfuad
 
-![network-diagram](SOHO-LAN-by-themmfuad.png "SOHO LAN by @themmfuad")
+![network-diagram](SOHO-LAN-CCNAPPN1-by-themmfuad.png "SOHO LAN by @themmfuad")
 
 # # Internet
 
